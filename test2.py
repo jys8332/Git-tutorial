@@ -6,4 +6,4 @@ def sub(a, b):
 
 print("Hello World!!")
 
-print("`_`")
+print("good")
